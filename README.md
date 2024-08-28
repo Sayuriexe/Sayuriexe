@@ -1,6 +1,27 @@
-- 👋 Hi, I’m @Sayuriexe
-- 👀 I’m interested in programming and games
-- 🌱 I’m currently learning Python, React, JS, Java and Flutter
-<!---
-Sayuriexe/Sayuriexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+# Olá, sejam bem-vindos! 👋
+
+- Meu nome é **Willyan Henrique**;
+- 19 anos;
+- Desenvolvedor Fullstack em ascensão.
+
+## 🚀 Linguagens que Utilizo:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</p>
+
+## 📊 Minhas Estatísticas no GitHub
+![Willyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayuriexe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayuriexe&layout=compact&theme=radical)
+
+## 📫 Contatos:
+<p align="left">
+  <a href="https://br.linkedin.com/in/willyan-henrique-da-silva-am%C3%A9rico-b2a138216" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/rfasayuri/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
