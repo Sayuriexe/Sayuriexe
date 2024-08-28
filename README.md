@@ -18,7 +18,7 @@
 
 ## 📫 Contatos:
 <p align="left">
-  <a href="https://br.linkedin.com/in/willyan-henrique-da-silva-am%C3%A9rico-b2a138216" target="_blank">
+  <a href="https://www.linkedin.com/in/willyan-henrique-da-silva-americo-b2a138216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/rfasayuri/" target="_blank">
